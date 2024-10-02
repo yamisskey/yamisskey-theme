@@ -48,9 +48,14 @@ html {
     --emoji_autofill_displey_style: contain;
 }
 
+/* 絵文字ピッカーウィンドウ全体のスタイル */
 .emojis {
+    width: var(--emoji_window_default_width) !important;
+    height: var(--emoji_window_default_height) !important;
     padding: 8px 4px 4px;
     text-align: center;
+    overflow-y: auto; /* 縦スクロールを可能にする */
+    overflow-x: auto; /* 横スクロールを防ぐ */
 }
 .emojis section>.body {
     display: inline !important;

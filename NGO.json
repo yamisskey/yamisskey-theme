@@ -41,7 +41,7 @@
     "divider": "rgba(106, 93, 216, 0.25)",
     "hashtag": "linear-gradient(135deg, #7B6DD9, #5645A1)",
     "mention": "linear-gradient(135deg, #7B6DD9, #5645A1)",
-    "modalBg": "rgba(255, 240, 245, 0.1)",
+    "modalBg": "rgba(255, 255, 255, 0.85)",
     "success": "rgba(129, 170, 5, 0.85)",
     "buttonBg": "rgba(106, 93, 216, 0.1)",
     "switchBg": "rgba(106, 93, 216, 0.2)",
